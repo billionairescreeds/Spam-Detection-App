@@ -6,3 +6,4 @@ joblib
 scikit-learn
 seaborn
 memory_profiler
+openpyxl
